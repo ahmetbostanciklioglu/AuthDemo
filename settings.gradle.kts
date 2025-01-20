@@ -1,4 +1,4 @@
-rootProject.name = "AuthDemo"
+rootProject.name = "User_Authentication_with_Firebase_in_Compose_Multiplatfrom"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
