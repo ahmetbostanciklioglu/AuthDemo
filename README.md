@@ -1,5 +1,6 @@
-![Uploading compose multiplatform auth app ss.png…]()
 
+
+![Uploading compose_multiplatform_app.png…]()
 
 
 This is a Kotlin Multiplatform project targeting Android, iOS.
